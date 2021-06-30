@@ -1,0 +1,71 @@
+/* p{
+    background-color: yellow;
+    color: blue;
+} */
+
+
+
+/* #text{
+    color: red;
+} */
+
+/* p,h1{
+    background-color: yellow;
+} */
+
+/* .text-color{
+    background-color: yellow;
+    color: green;
+} */
+
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+/* p.text-color{
+    color: teal;
+}
+
+p.text-color{
+    color: red;
+}
+
+.main button:first-child{
+   color: blue; 
+} */
+
+/*(id,class,element)*/
+
+/*(1,2,0)*/
+/* .main .sub #save-btn{
+    color: red;
+} */
+
+button#save-btn{
+    color: red;
+}
+
+
+/* div .sub .btn{
+    color: blue;
+}
+
+.main.container div button.btn{
+    color: green;
+} */
+
+/*(1,0,3)*/
+/* div div button#save-btn{
+    color: yellow;
+} */
+
+#save-btn:hover{
+    color: teal;
+}
+
+
+
